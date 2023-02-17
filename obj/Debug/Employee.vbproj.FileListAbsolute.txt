@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\bin\Debug\Employee.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\bin\Debug\Employee.exe
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\bin\Debug\Employee.pdb
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\bin\Debug\Employee.xml
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\obj\Debug\Employee.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\obj\Debug\Employee.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\obj\Debug\Employee.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\obj\Debug\Employee.exe
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\obj\Debug\Employee.xml
+c:\users\user\documents\visual studio 2015\Projects\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Employee\Employee\obj\Debug\Employee.Form1.resources
